@@ -39,3 +39,5 @@ There are three options to reset DIWA's Database:
 * When calling `/?reset=diwa` the database is being resetted instantly (unprompted).
 * To also reset file changes and delete created files, just reset your git workspace (reset / clean).
   When using MySQL you should additionally use one of the reset methods above.
+
+Do not taunt Happy Fun Ball.  
